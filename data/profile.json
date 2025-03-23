@@ -9,7 +9,7 @@
     "hardSkills": [
       {
         "name": "CSharp",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/csharp.png"
+        "logo": "https://raw.githubusercontent.com/LucasFS096/js-developer-portfolio/refs/heads/main/data/imgs/csharp.png"
       },
       {
         "name": "JavaScript",
@@ -17,7 +17,7 @@
       },
       {
         "name": "Css",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+        "logo": "https://raw.githubusercontent.com/LucasFS096/js-developer-portfolio/refs/heads/main/data/imgs/css.png"
       }
     ],
     "softSkills": [
